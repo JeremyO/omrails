@@ -1,0 +1,17 @@
+$navbar-height: 50px;
+$navbar-default-link-hover-color:#777;
+
+@import "bootstrap";
+
+body {
+  padding-top: 10px;
+}
+
+
+.footer {
+  margin-top: 150px;
+  color: $gray;
+  a {
+    color: $gray;
+  }
+}
